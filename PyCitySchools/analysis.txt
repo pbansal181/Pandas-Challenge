@@ -1,0 +1,5 @@
+There are many conclusions that can be drawn from the calculations and analysis on the dataset. Few of them are listed below:
+1) Out of 15 schools, the top performing schools are Charter schools and bottom performing schools are District schools.
+2) The overall passing percentage of Charter schools is more than 90(90.43%) which is way higher than the value for District schools(53.67%) which indicates the higher and better result of Charter schools.
+3) From the reading and math performance for 9th, 10th, 11th and 12th grade students, we can see that for almost all schools and in all grades students has better performance in reading as compared to maths.
+4) Among all schools with total 39170 students, the overall passing percentage is only 65(65.17%).
