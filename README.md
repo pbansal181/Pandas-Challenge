@@ -3,6 +3,7 @@
 In this coding challenge, we are given with a starter file and two csv files named as school_complete data and the other one is students_complete data. These files are containing all the student's data and school's data. Using the starter file and data we need to calculate the below:
 
 **District Summary**
+
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 Include the following:
 •	Total number of unique schools
@@ -15,6 +16,7 @@ Include the following:
 •	% overall passing (the percentage of students who passed math AND reading)
 
 **School Summary**
+
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 Include the following:
 •	School name
